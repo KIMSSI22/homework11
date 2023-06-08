@@ -26,6 +26,7 @@ int search(int *ht, int key);
 
 int main()
 {
+	printf("김민서 2022040010\n");
 	char command;
 	int *array = NULL;
 	int *hashtable = NULL;
